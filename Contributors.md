@@ -774,6 +774,7 @@ Kencham Vinay
 - [Sridhar V](https://github.com/Sridhar9095)
 - [Ruchik Pravasi](https://github.com/rcipdev)
 - [Krzysztof Fijol] (https://github.com/FijolKrzysztof)
+- [Joel Fernandes](https://github.com/jfernsio)
 - [Mike Cha](https://github.com/MckCha)
 - [Mehtab Gill](https://github.com/mehtab39)
 - [Samuel Kaing](https://github.com/SamuelKaing)
